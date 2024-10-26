@@ -1,0 +1,6 @@
+Você deve primeiro ligar um dos interruptores e esperar alguns minutos.
+Depois, desligue ele e ligue outro interruptor.
+Vá até a sala das lâmpadas e verifique:
+-Qual está desligada e quente (corresponde ao primeiro interruptor);
+-Qual está acesa (corresponde ao segundo interruptor);
+-Qual está apagada e fria (corresponde ao terceiro interruptor);
